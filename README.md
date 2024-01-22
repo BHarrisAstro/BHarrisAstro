@@ -4,7 +4,7 @@ I am especially interested in the study of planetary atmospheres, exoplanets, an
 
 Data visualization and the solving of physical problems using code are particular interests to me and I plan on fostering these skills in my studies, personal ventures, and work opportunities.
 
-The best place to reach me is by email!
+The best place to reach me is my email, bharris@berkeley.edu 
 
 <!---
 BHarrisAstro/BHarrisAstro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
